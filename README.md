@@ -1,3 +1,5 @@
+App Link: https://rag-ai-assistant-by-waseh-ujddpvskvqcdb8cuthufhs.streamlit.app/
+
 # 🤖 RAG AI Assistant
 
 A Retrieval-Augmented Generation (RAG) application built with **Streamlit, FAISS, Sentence Transformers, and Groq**.
